@@ -6,6 +6,21 @@
 
 **Timeline:** The timeline of this project is 2019 and 2021
 
+## Setup
+
+Python 3 dependencies:
+
+* PySpark
+* Pandas,Numpy
+* Seaborn,matplotlib.pyplot
+* Scikit Learning
+
+We provide a requirement.txt including all of the libraries used. Create the conda environment `nerf` by running:
+```
+pip install -r requirements.txt
+```
+
+## Pipeline
 To successfully run the pipeline, first visit `scripts` directory and download the data:
 0. `data_download.py`: initialise all the workspaces and download the raw data needed.
 Then visit `notebooks` directory and run all files in order:
