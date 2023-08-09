@@ -1,6 +1,6 @@
 # MAST30034 Project 1 README.md
-- Name: Yuchen Luo
-- Student ID: 1153247
+- Name: None
+- Student ID: None
 
 **Research Goal:** This project mainly focuses on the analysis towards people's taxi Tip behaviour in NYC, with the help of a Random Forest Regressor and a Logistic Regression Model
 
